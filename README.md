@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello everyone 👋
 
-<!--
-**AalamTeam/AalamTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AalamTeam** is an ✨ _international_ ✨ team.
 
-Here are some ideas to get you started:
+* Akimkanova Anara. Dubai
+* Sarkobenova Elnura. Belgium
+* Asanbekov Maksat. Switzerland
+* Shadybekova Elzada. Belgium
+* Kubanychbekova Saule. Dubai
+* Kylychev Janat. Dubai
+* Nasirdinova Yrysbu. London
+* Omuralieva Jidegul. Germany
+* Jorobaev Urmatbek. Moscow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- We are currently working on teamwork.
+- We are currently study in "JYLDYZ ACADEMY".
+- 💬 Ask us about repositories.
+- 📫 How to reach us: <https://taplink.cc/aalam_team>
+
+#### It doesn't matter how ingenious your mind or strategy is - if you play alone, you will lose to those who play in the Team.
+
